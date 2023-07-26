@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+  }
+.center-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  }
+  .center-text {
+    text-align: center;
+  }
